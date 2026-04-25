@@ -1,0 +1,17 @@
+openai
+python-dotenv
+streamlit
+faiss-cpu
+numpy
+
+langchain
+langchain-community
+langchain-core
+
+pymupdf
+
+pdf2image
+Pillow
+pytesseract
+
+gradio==6.5.1
